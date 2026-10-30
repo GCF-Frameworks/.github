@@ -8,7 +8,7 @@
 
 **The model is replaceable. The intelligence system is not.**
 
-[Website](https://www.gcf-framework.com) · [GitHub organisation](https://github.com/GCF-Frameworks) · [Email](mailto:billy.p@gcf-framework.com)
+[Website](https://www.gcf-framework.com) · [News](https://www.gcf-framework.com/founder-notes/introducing-gcf-frameworks/) · [X](https://x.com/GCFFramework) · [GitHub organisation](https://github.com/GCF-Frameworks) · [Email](mailto:billy.p@gcf-framework.com)
 
 </div>
 
@@ -16,7 +16,13 @@
 
 ## About GCF Frameworks
 
-**GCF Frameworks Ltd** is a UK-based technology company developing governed AI architectures and the systems built around them. Our focus is on making AI more persistent and useful while keeping permissions, tools and real-world actions under explicit control.
+**GCF Frameworks Ltd** is a UK technology company, based in Blackpool, developing governed AI architectures and the systems built around them. Our focus is on making AI more persistent and useful while keeping permissions, tools and real-world actions under explicit control.
+
+The work began in 2020 as a personal project to build an AI assistant that could remember context, help with real work and use tools on a computer. That assistant became ISAC, and the architecture built to govern it became GCF. The company was incorporated in England and Wales on 19 September 2026 (company number 17468924).
+
+<img src="assets/nvidia-inception-program-badge.png" alt="NVIDIA Inception Program badge" width="160" />
+
+GCF Frameworks Ltd is a member of NVIDIA Inception.
 
 We believe improvements in AI should not depend on larger models alone. The architecture around a model matters too: how it handles state, resources, memory, tools, auditing and authority.
 
@@ -55,7 +61,11 @@ Robotics and specialist GCF hardware are **research and development directions**
 
 ## Development status
 
-As documented in our **13 October 2026 development closeout**, ISAC Stages 31–35 reached the internally certified **Foundation Stable** milestone, following revalidation and benchmarking. This refers to an **internal engineering milestone**, not independent security certification.
+As documented in our **13 October 2026 development closeout**, ISAC Stages 31–35 reached the internal **Foundation Stable** milestone, following revalidation and benchmarking. This refers to an **internal engineering milestone**, not independent security certification.
+
+Testing so far has been internal, apart from one early build (0.01A) shared with a first external tester.
+
+**Next planned milestone:** ISAC Technical Preview Build 0.02A. It is in development and has no release date. It is a technical preview, not the formal ISAC product, and aims to make ISAC easier to install, use and demonstrate, with normal typed conversation, visible GCF governance, and better onboarding and diagnostics.
 
 Subsequent ISAC stages, product features and external security evaluation remain subject to development and validation. We do not present planned capabilities as shipped products.
 
@@ -72,7 +82,8 @@ Subsequent ISAC stages, product features and external security evaluation remain
 - **Website:** https://www.gcf-framework.com
 - **Email:** billy.p@gcf-framework.com
 - **Organisation:** https://github.com/GCF-Frameworks
-- **Location:** United Kingdom
+- **X:** https://x.com/GCFFramework
+- **Location:** Blackpool, United Kingdom
 
 ---
 
@@ -81,5 +92,7 @@ Subsequent ISAC stages, product features and external security evaluation remain
 *Capability can change. Authority should remain governed.*
 
 © 2026 GCF Frameworks Ltd.
+
+<sub>© 2025 NVIDIA, the NVIDIA logo, and NVIDIA Inception are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries.</sub>
 
 </div>
