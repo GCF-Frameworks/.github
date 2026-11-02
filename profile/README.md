@@ -8,7 +8,7 @@
 
 **The model is replaceable. The intelligence system is not.**
 
-[Website](https://www.gcf-framework.com) · [News](https://www.gcf-framework.com/founder-notes/introducing-gcf-frameworks/) · [X](https://x.com/GCFFramework) · [GitHub organisation](https://github.com/GCF-Frameworks) · [Email](mailto:billy.p@gcf-framework.com)
+[Website](https://www.gcf-framework.com) · [News](https://www.gcf-framework.com/founder-notes/introducing-gcf-frameworks/) · [X](https://x.com/GCFFramework) · [LinkedIn](https://www.linkedin.com/company/146638099/) · [GitHub organisation](https://github.com/GCF-Frameworks) · [Email](mailto:billy.p@gcf-framework.com)
 
 </div>
 
@@ -16,74 +16,76 @@
 
 ## About GCF Frameworks
 
-**GCF Frameworks Ltd** is a UK technology company, based in Blackpool, developing governed AI architectures and the systems built around them. Our focus is on making AI more persistent and useful while keeping permissions, tools and real-world actions under explicit control.
+**GCF Frameworks Ltd** is an independent UK company building **GCF**, the underlying intelligent system architecture for AI, and **ISAC**, the first AI product being built on it.
 
-The work began in 2020 as a personal project to build an AI assistant that could remember context, help with real work and use tools on a computer. That assistant became ISAC, and the architecture built to govern it became GCF. The company was incorporated in England and Wales on 19 September 2026 (company number 17468924).
+The work began in 2020 as a personal project to build an AI assistant that could remember context, help with real work and use tools on a computer. That assistant became ISAC, and the architecture it needed became GCF. The company was incorporated in England and Wales on 19 September 2026 (company number 17468924).
 
 <img src="assets/nvidia-inception-program-badge.png" alt="NVIDIA Inception Program badge" width="160" />
 
 GCF Frameworks Ltd is a member of NVIDIA Inception.
 
-We believe improvements in AI should not depend on larger models alone. The architecture around a model matters too: how it handles state, resources, memory, tools, auditing and authority.
+## GCF — Governed Cognitive Framework
 
-## What we're building
+**GCF** is the underlying architecture of an intelligent AI system. It covers cognition, memory, governance, security, permissions, authority, tools and resources, and how those components work together. It is not a governance wrapper or a security layer added on top of a model.
 
-### ISAC — Intelligent Systems Architecture Core
+GCF is model-independent: models are replaceable engines. Memory, authority and the written record belong to the system, so changing the model does not change what the system is permitted to do.
 
-**ISAC** is the first product being developed on GCF. It is intended to provide a persistent AI experience across tasks and, as development progresses, models and sessions, with governed access to systems and tools.
+> **Capability does not equal authority.** A more capable model does not automatically gain permission to act.
 
-ISAC remains a **pre-commercial product in development**. Our current focus is on controlled product progression, external validation and commercial readiness.
+GCF is designed around:
 
-### GCF — Governed Cognitive Framework
+- Authority defined and held by the system, not granted by the model
+- Tools and system access through controlled, permitted routes
+- Models as replaceable parts, so an organisation is not tied to one provider
+- Memory that belongs to the system and survives a change of model
+- Budgets, resource awareness and a written record of actions for people to review
+- Human oversight: people can review, step in and override
 
-**GCF** is the underlying architecture for coordinating AI cognition, memory-related components, resource management and authority controls. It is designed around a simple principle:
+## ISAC — Intelligent Systems Architecture Core
 
-> **AI capability does not automatically grant permission to act.**
+**ISAC** is the first AI product being built on GCF. It is where GCF's architecture becomes something people can use and see working. ISAC is designed to remember, use tools and work across models, with GCF deciding what it is permitted to do.
 
-Our approach includes:
+ISAC is **in development and not yet available**. It is a pre-commercial product.
 
-- Model-independent governance and modular model coordination
-- Resource-aware local AI execution
-- Permission and policy controls for tool and system access
-- Auditability, risk controls and human oversight
-- Memory and identity architecture developed through explicit product stages
-- Support for future private, server and edge environments
+## Development status
+
+These are internal engineering milestones, not external certification:
+
+| Item | Status |
+| --- | --- |
+| GCF 2.0 baseline | Frozen |
+| ISAC Stages 31–35 | Complete |
+| Foundation Stable | Reached (internal milestone, 13 October 2026 development closeout) |
+| Stage 36 · external and custom AI providers | In progress |
+| ISAC Technical Preview Build 0.02A | In development; no date yet. A technical preview, not the formal ISAC product |
+
+Testing so far has been internal, apart from one early build (0.01A) shared with a first external tester. We do not present planned capabilities as shipped products.
 
 ## Where we're focusing
 
 | Area | Direction |
 | --- | --- |
-| **Private-sector AI** | Exploring governed AI workflows for software teams, SMEs and organisations with sensitive systems or information. |
+| **Private-sector AI** | Exploring governed AI for software teams, SMEs and organisations with sensitive systems or information. |
 | **Secure infrastructure** | Investigating controlled integration with local computers, servers, private infrastructure and edge devices. |
-| **Robotics and physical intelligence** | Parallel research into assistive and industrial robotics, plus potential hardware-backed authority controls. |
-
-Robotics and specialist GCF hardware are **research and development directions**, not released commercial products.
-
-## Development status
-
-As documented in our **13 October 2026 development closeout**, ISAC Stages 31–35 reached the internal **Foundation Stable** milestone, following revalidation and benchmarking. This refers to an **internal engineering milestone**, not independent security certification.
-
-Testing so far has been internal, apart from one early build (0.01A) shared with a first external tester.
-
-**Next planned milestone:** ISAC Technical Preview Build 0.02A. It is in development and has no release date. It is a technical preview, not the formal ISAC product, and aims to make ISAC easier to install, use and demonstrate, with normal typed conversation, visible GCF governance, and better onboarding and diagnostics.
-
-Subsequent ISAC stages, product features and external security evaluation remain subject to development and validation. We do not present planned capabilities as shipped products.
+| **Robotics and physical intelligence (future vision)** | Longer-term research only. No robotics product exists or is offered. |
 
 ## Engineering principles
 
 - **Governance before execution** — the model may propose; a separate authority process determines what can proceed.
-- **Human control** — retain defined oversight, escalation and interruption mechanisms.
-- **Model flexibility** — underlying models can change without automatically widening permissions.
-- **Local-first foundations** — value privacy-conscious and resource-aware deployment.
-- **Evidence before claims** — distinguish internal technical testing from independent assurance and customer outcomes.
+- **Human control** — defined oversight, escalation and interruption.
+- **Model flexibility** — models can change without automatically widening permissions.
+- **Local-first foundations** — privacy-conscious and resource-aware deployment.
+- **Evidence before claims** — we keep internal testing separate from independent assurance and customer outcomes.
 
 ## Connect
 
 - **Website:** https://www.gcf-framework.com
 - **Email:** billy.p@gcf-framework.com
-- **Organisation:** https://github.com/GCF-Frameworks
+- **LinkedIn:** https://www.linkedin.com/company/146638099/
 - **X:** https://x.com/GCFFramework
-- **Location:** Blackpool, United Kingdom
+- **Organisation:** https://github.com/GCF-Frameworks
+- **Based in:** Blackpool, United Kingdom
+- **Registered office:** Cotton Court Business Centre, Church Street, Preston PR1 3BY
 
 ---
 
